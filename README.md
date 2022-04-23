@@ -1,1 +1,1 @@
-# 1-DOKUZI-DEVOPS
+# 1-DOKUZI-DeVops
